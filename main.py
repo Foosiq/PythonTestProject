@@ -1,3 +1,9 @@
 #!/usr/bin/env python
 
-print("Hello World")
+def hello():
+    """Makes nothing."""
+
+    print("Hello World!")
+
+hello()
+
